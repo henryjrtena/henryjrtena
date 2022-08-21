@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @henryjrtena
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.instagram.com/henry.tena/?hl=en
+- 📫 How to reach me info@hjratena.online
 
 <!---
 henryjrtena/henryjrtena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
