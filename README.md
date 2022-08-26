@@ -1,7 +1,7 @@
 Hi 👋 My name is Henry Tena
 ===========================
 
-Full-Stack Web Developer
+Aspiring Full-Stack Web Developer
 ------------------------
 
 *   🌍  I'm based in Philippines
