@@ -6,7 +6,7 @@ Aspiring Full-Stack Web Developer
 
 *   🌍  I'm based in Philippines
 *   🖥️  See my portfolio at [My Website/Portfolio](http://henrytena.online)
-*   ✉️  You can contact me at [info@hjratena.online](mailto:info@hjratena.online)
+*   ✉️  You can contact me at [info@henrytena.online](mailto:info@henrytena.online)
 *   🧠  I'm learning JavaScript and Laravel PHP
 *   🤝  I'm open to collaborating on interesting projects
 
