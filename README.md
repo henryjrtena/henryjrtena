@@ -4,7 +4,7 @@ Hi 👋 My name is Henry Tena
 Aspiring Full-Stack Web Developer
 ------------------------
 
-   🌍  I'm based in Philippines
+*  🌍  I'm based in Philippines
 *   ✉️  You can contact me at [henrytena2013@gmail.com](mailto:henrytena2013@gmail.com)
 *   🧠  I'm learning ReactJS at Scrimba
 *   🤝  I'm open to collaborating on interesting projects
@@ -22,3 +22,5 @@ Aspiring Full-Stack Web Developer
     <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
+        
