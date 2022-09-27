@@ -1,13 +1,10 @@
 Hi 👋 My name is Henry Tena
 ===========================
 
-Hi 👋 My name is Henry Tena
-============================
-
 Aspiring Full-Stack Web Developer
 ------------------------
 
-*   🌍  I'm based in Philippines
+   🌍  I'm based in Philippines
 *   ✉️  You can contact me at [henrytena2013@gmail.com](mailto:henrytena2013@gmail.com)
 *   🧠  I'm learning ReactJS at Scrimba
 *   🤝  I'm open to collaborating on interesting projects
